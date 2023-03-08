@@ -1,7 +1,14 @@
 # Bing Chat Anywhere
 This is an chrome extension that allows you to use **Bing Chat** from Google Chrome itself
 
+# Why ?
+You can't use **Bing Chat** from Google Chrome or Firefox. You need to download **Microsoft Edge** to use **Bing Chat**. It's not too much convenient . For that reason , created this one.
+
+
+![NO MORE](https://user-images.githubusercontent.com/57363826/223781321-d278fc26-ea77-4a19-a077-2750b007285d.gif)
+
 ---
+
 ## How to install it?
 1. Download the extension from [here](https://github.com/Tanmoy741127/Bing-Chat-Anywhere/archive/refs/heads/main.zip)
 2. Extract the zip file
@@ -21,6 +28,4 @@ This is an chrome extension that allows you to use **Bing Chat** from Google Chr
 ![Screenshot of bing chat in google chrome](https://user-images.githubusercontent.com/57363826/223779584-199e04f1-1a4f-4ef2-bc24-c7e67cd170a4.png)
 
 
-## Don't forget to ⭐ star the repo if you like itgit remote add origin git@github.com:Tanmoy741127/Bing-Chat-Anywhere.git
-git branch -M main
-git push -u origin main
+## Don't forget to ⭐ star the repo if you like it
