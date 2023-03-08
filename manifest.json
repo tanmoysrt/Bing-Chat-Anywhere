@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "Bing Chat Anywhere",
+  "version": "1.0.0",
+  "description": "Access bing chat from chrome on the web",
+  "permissions": [
+    "declarativeNetRequest",
+    "declarativeNetRequestWithHostAccess",
+    "declarativeNetRequestFeedback"
+  ],
+  "host_permissions": [
+    "*://bing.com/*",
+    "*://*.bing.com/*",
+    "*://*.clarity.ms/*"
+  ],
+  "background": {"service_worker": "background.js"},
+  "icons": {
+    "128": "icon.png"
+  }
+}
